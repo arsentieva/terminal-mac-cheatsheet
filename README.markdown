@@ -47,7 +47,6 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | Esc + T  | Swap the last two words before the cursor |
 | Esc + Backspace | Cut one word backwards using none alphabetic characters as delimiters |
 | Tab  | Auto-complete files and folder names |
-| !!   | Execute the last command ran |
 
 ### CORE COMMANDS
 
